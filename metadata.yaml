@@ -1,0 +1,22 @@
+_repo: Andy-the-Acrobat--13-Or-Out-with-the-Greatest-Show-on-Earth_10396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harkness, Peter T.
+    gutenberg_agent_id: '3509'
+    url: http://www.gutenberg.org/2009/agents/3509
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Circus -- Juvenile fiction'
+- GITenberg
+title: "Andy the Acrobat\r\nOr, Out with the Greatest Show on Earth"
+url: http://www.gutenberg.org/ebooks/10396
