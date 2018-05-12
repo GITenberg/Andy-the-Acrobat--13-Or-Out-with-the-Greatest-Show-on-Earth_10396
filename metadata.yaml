@@ -1,11 +1,16 @@
 _repo: Andy-the-Acrobat--13-Or-Out-with-the-Greatest-Show-on-Earth_10396
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harkness, Peter T.
     gutenberg_agent_id: '3509'
     url: http://www.gutenberg.org/2009/agents/3509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10396#Andy-the-Acrobat--13-Or-Out-with-the-Greatest-Show-on-Earth
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
